@@ -5,7 +5,7 @@ body {
   }
   
   h1, h2 {
-    color: #444;
+    color: #8136a2;
   }
   
   table {
@@ -40,12 +40,12 @@ body {
   
   button {
     padding: 10px;
-    background-color: #5cb85c;
+    background-color: #512f9b;
     color: white;
     border: none;
     cursor: pointer;
   }
   
   button:hover {
-    background-color: #4cae4c;
+    background-color: #7129b9;
   }
